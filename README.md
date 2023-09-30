@@ -1,2 +1,2 @@
 # cyclistic-project
-Cyclistic Bike-Share Analysis – Google Capstone Project
+Cyclistic Bikeshare Analysis – Google Capstone Project
